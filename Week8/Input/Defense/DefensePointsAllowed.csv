@@ -1,0 +1,33 @@
+Rank,Name,Team,Position,Played,DraftKingsQuarterbackFantasyPointsAllowedAverage,DraftKingsRunningbackFantasyPointsAllowedAverage,DraftKingsWideReceiverFantasyPointsAllowedAverage,DraftKingsTightEndFantasyPointsAllowedAverage,DraftKingsKickerFantasyPointsAllowedAverage,DraftKingsFantasyPointsAllowedAverage
+1,Baltimore Ravens,BAL,DST,7,14.6,14.57,32.21,11.77,2.57,75.73
+2,Jacksonville Jaguars,JAX,DST,7,15.37,20.5,29.46,8.5,7.14,80.97
+3,Dallas Cowboys,DAL,DST,7,17.29,22.43,29.7,10.64,4,84.06
+4,Seattle Seahawks,SEA,DST,6,15.17,22.97,35.78,8.25,3,85.17
+5,Tennessee Titans,TEN,DST,7,17.78,17.8,41.56,8.04,4.43,89.61
+6,Green Bay Packers,GB,DST,6,18.23,21.97,37.53,10.3,3.67,91.7
+7,Los Angeles Rams,LAR,DST,7,17.13,22.03,34.2,13.7,5,92.06
+8,Houston Texans,HOU,DST,7,18.26,21.85,34.66,12.83,4.57,92.16
+9,Washington Redskins,WAS,DST,6,20.55,19.95,38.35,11.28,2.83,92.97
+10,Minnesota Vikings,MIN,DST,7,21.11,18.99,33.73,15.77,3.86,93.46
+11,Buffalo Bills,BUF,DST,7,16.44,28.2,32.59,10.86,6.14,94.23
+12,Los Angeles Chargers,LAC,DST,7,19.65,24.54,38.13,11.96,3.71,97.99
+13,Denver Broncos,DEN,DST,7,16.44,29.24,35.7,12.49,5.14,99.01
+14,Detroit Lions,DET,DST,6,18.3,31.28,34.02,12.03,3.67,99.3
+15,New York Giants,NYG,DST,7,19.38,25.43,36.27,10,8.71,99.8
+16,Philadelphia Eagles,PHI,DST,7,20.87,19.69,46.96,8.07,4.29,99.87
+17,Chicago Bears,CHI,DST,6,20.17,18.65,46.87,11.12,4.33,101.14
+18,Arizona Cardinals,ARI,DST,7,16.52,35.37,36.59,8.93,4.43,101.84
+19,Indianapolis Colts,IND,DST,7,19.06,25.47,36.71,13.77,7.57,102.59
+20,Carolina Panthers,CAR,DST,6,20.87,19.58,37.25,19.63,5.67,103
+21,Miami Dolphins,MIA,DST,7,18.27,32.61,35.19,11.97,5.57,103.61
+22,Oakland Raiders,OAK,DST,6,20.32,28.27,41.96,9.68,4.5,104.73
+23,New York Jets,NYJ,DST,7,20.3,24.5,47.54,9.84,5.86,108.04
+24,New Orleans Saints,NO,DST,6,26.99,18.2,53.2,8.37,3,109.76
+25,Cleveland Browns,CLE,DST,7,18.67,28.66,43.51,12.87,6.14,109.85
+26,New England Patriots,NE,DST,7,24.59,26.71,37.29,16.93,5,110.52
+27,San Francisco 49ers,SF,DST,7,22.64,28.93,40.2,13.34,6.29,111.4
+28,Pittsburgh Steelers,PIT,DST,6,26.36,17.07,47.12,19.13,4.17,113.84
+29,Kansas City Chiefs,KC,DST,7,24.49,33.57,39.64,16.19,5.86,119.75
+30,Cincinnati Bengals,CIN,DST,7,25.89,31.57,41.39,17.69,5.29,121.82
+31,Atlanta Falcons,ATL,DST,7,27.94,33.41,47.83,12.26,3.29,124.72
+32,Tampa Bay Buccaneers,TB,DST,6,30.07,28.58,49.47,20.13,5.17,133.42
